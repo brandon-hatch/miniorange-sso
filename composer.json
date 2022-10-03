@@ -1,0 +1,16 @@
+{
+    "name": "brandon-hatch/miniorange-sso",
+    "description": "Provides unlimited User Authentication with OAuth & OpenID Connect protocol and allows authorized user to login into the WordPress site",
+    "type": "wordpress-plugin",
+    "version": "6.23.4",
+    "source": {
+		"url": "https://github.com/brandon-hatch/miniorange-sso.git",
+		"type": "git",
+		"reference": "master"
+	},
+    "license": "MIT/Expat",
+    "author": {
+        "name": "MiniOrange",
+        "email": ""
+    }
+}
