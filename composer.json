@@ -8,7 +8,7 @@
 		"type": "git",
 		"reference": "master"
 	},
-    "license": "MIT/Expat",
+    "license": "MIT",
     "author": {
         "name": "MiniOrange",
         "email": ""
